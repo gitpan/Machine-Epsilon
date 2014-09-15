@@ -1,0 +1,22 @@
+---
+abstract: 'The maximum relative error while rounding a floating point number'
+author:
+  - 'binary.com <perl@binary.com>'
+build_requires:
+  Test::More: 0
+dynamic_config: 1
+generated_by: 'ExtUtils::MakeMaker version 6.72, CPAN::Meta::Converter version 2.132140'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Machine-Epsilon
+no_index:
+  directory:
+    - t
+    - inc
+requires:
+  perl: 5.006
+resources:
+  repository: https://github.com/binary-com/perl-Machine-Epsilon.git
+version: 1.00
